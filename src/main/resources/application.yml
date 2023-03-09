@@ -1,7 +1,0 @@
-server:
-  port: 8970
-
-spring:
-  application:
-    name: xxl-job-demo
-
